@@ -1,2 +1,2 @@
-# janji-temu
-Sistem Janji Temu
+# appointments
+appointments
